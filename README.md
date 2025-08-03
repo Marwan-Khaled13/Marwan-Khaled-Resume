@@ -1,6 +1,4 @@
-# Marwan Khaled - Data Analyst Portfolio
-
-This is a responsive and multilingual personal portfolio website for **Marwan Khaled**, showcasing projects, skills, and contact information.
+# Marwan Khaled - Data Analyst
 
 ## Live Website
 
@@ -9,17 +7,15 @@ This is a responsive and multilingual personal portfolio website for **Marwan Kh
 ## File Structure
 
 - `index.html` — English version  
-- `index-ar.html` — Arabic version (RTL)  
+- `index-ar.html` — Arabic version
 - `index-fr.html` — French version  
 - `style.css` — Shared CSS styles  
 
 ## Language Versions
 
-You can switch between languages using the navigation links at the top of each page:
-
 - English: `index.html`  
-- العربية: `index-ar.html`  
 - Français: `index-fr.html`
+- العربية: `index-ar.html`  
 
 ## Projects Included
 
@@ -29,15 +25,9 @@ You can switch between languages using the navigation links at the top of each p
 - [Sales Analysis Dashboard 2](https://www.linkedin.com/posts/marwan-khaled-725403301_excel-dataanalytics-salesdashboard-activity-7342948194588258306-VNQQ)
 - [HR Dashboard](https://www.linkedin.com/posts/marwan-khaled-725403301_excel-dataanalytics-hrdashboard-activity-7341831496862711808-VxUW)
 
-Each project links directly to LinkedIn for viewing.
-
 ## Contact
 
 - Email: **MarwanKhaled1332004@gmail.com**  
-- LinkedIn: [linkedin.com/in/marwan-khaled-725403301](https://linkedin.com/in/marwan-khaled-725403301)  
-- Upwork: [upwork.com/freelancers/~018f1ac8b9ec895a16](https://www.upwork.com/freelancers/~018f1ac8b9ec895a16)  
-- Freelancer: [freelancer.com/u/MarwanK13](https://freelancer.com/u/MarwanK13)
+- LinkedIn: [linkedin.com/in/marwan-khaled-725403301](https://linkedin.com/in/marwan-khaled-725403301)
 
 ---
-
-Built by Marwan Khaled.
